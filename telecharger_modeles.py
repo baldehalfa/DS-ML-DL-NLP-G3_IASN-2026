@@ -1,7 +1,4 @@
-"""Telecharge les modeles pre-entraines du jour 3. A lancer CHEZ VOUS.
-
-Trente telechargements simultanes en salle saturent le reseau et vous font perdre
-l'apres-midi. Ce script est a lancer la veille, chez vous, une seule fois.
+""" Telecharge les modeles pre-entraines du jour 3. A lancer CHEZ VOUS.
 
     python telecharger_modeles.py
 """
