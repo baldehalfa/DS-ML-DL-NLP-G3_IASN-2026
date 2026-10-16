@@ -1,0 +1,24 @@
+NAME;LABEL
+finess;finess juridique
+rs_finess;finess juridique - raison sociale
+finess_geo;finess géographique
+rs_finess_geo;finess géographique - raison sociale
+region;Région
+participation;Participation obligatoire ou facultative
+Depot;Dépot d'au moins une adresse mail valide
+nb_rep_score_all_rea_ajust;N réponses - Satisfaction globale des patients
+score_all_rea_ajust;Note ajustée de satisfaction globale des patients
+classement;Classe A : >= à 77.3, Classe B : >= à 74 et < à 77.3,Classe C : >= à 70.7 et < à 74,Classe D : < à 70.7, DI : moins de 30 réponses exploitables, NR : non répondant
+evolution;Changement de classe entre 2016 et 2017
+nb_rep_score_accueil_rea_ajust;N réponses - Satisfaction de l'accueil
+score_accueil_rea_ajust;Note ajustée de satisfaction de l'accueil
+nb_rep_score_PECinf_rea_ajust;N réponses - Satisfaction de la prise en charge infirmiers/aides-soignants
+score_PECinf_rea_ajust;Note ajustée de satisfaction de la prise en charge infirmiers/aides-soignants
+nb_rep_score_PECmed_rea_ajust;N réponses - Satisfaction de la prise en charge par les médecins/chirurgiens
+score_PECmed_rea_ajust;Note ajustée de satisfaction de la prise en charge par les médecins/chirurgiens
+nb_rep_score_chambre_rea_ajust;N réponses - Satisfaction de la chambre
+score_chambre_rea_ajust;Note ajustée de satisfaction de la chambre
+nb_rep_score_repas_rea_ajust;N réponses - Satisfaction des repas
+score_repas_rea_ajust;Note ajustée de satisfaction des repas
+nb_rep_score_sortie_rea_ajust;N réponses - Satisfaction de la sortie
+score_sortie_rea_ajust;Note ajustée de satisfaction de la sortie
