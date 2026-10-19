@@ -17,6 +17,7 @@ c'est en anglais que vous les retrouverez partout ailleurs.
 - `notebooks/TD4_reseaux.ipynb`
 - `notebooks/TD5_temporel.ipynb`
 - `notebooks/TD6_non_supervise.ipynb`
+- `notebooks/PROJET_esatis.ipynb`
 
 ### Jour 3 : texte, LLM et RAG
 
@@ -63,4 +64,12 @@ ouvrez-les plutôt que d'attendre.
 ## Les données
 
 Toutes en open data, et leurs licences sont dans `donnees/LICENCES.md`.
+
+## Contact
+
+Une question sur le cours, pendant ou après : écrivez-moi.
+
+- e-mail : [mamadou.balde@master.centralelille.fr](mailto:mamadou.balde@master.centralelille.fr)
+- LinkedIn : [mamadou-alpha-hawa-balde](https://www.linkedin.com/in/mamadou-alpha-hawa-balde-508ba559/)
+
 
